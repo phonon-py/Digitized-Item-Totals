@@ -3,3 +3,6 @@ __pycache__
 
 # files
 config.py
+concat_df_clean.ipynb
+dir_serch_df_concat.py
+combined_df.pickle
