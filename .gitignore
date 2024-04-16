@@ -1,9 +1,11 @@
 # dirs
 __pycache__
 git_push
+venv
 
 # files
 config.py
 concat_df_clean.ipynb
-dir_serch_df_concat.py
 combined_df.pickle
+combined_df.xlsx
+determine_business.py
