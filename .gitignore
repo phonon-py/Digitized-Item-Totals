@@ -4,8 +4,9 @@ git_push
 venv
 
 # files
-config.py
+config.ini
 concat_df_clean.ipynb
 combined_df.pickle
 combined_df.xlsx
 determine_business.py
+check.ipynb
